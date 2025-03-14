@@ -7,5 +7,3 @@ let string3 =prompt("третій рядок");
 
 console.log(`${string1},${string2},${string3}`);
 
-//Exercise 3
-
