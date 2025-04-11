@@ -13,6 +13,6 @@ for (let i = 1; i <= 10; i++) {
 html += "</table>";
 container.innerHTML = html;
 
-//Exercise 2
+
 
 //Exercise 3
