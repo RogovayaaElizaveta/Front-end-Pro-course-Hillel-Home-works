@@ -11,8 +11,6 @@ taskList.addEventListener("click", function (event) {
 addBtn.addEventListener("click", function () {
   const Text = Input.value.trim();
   if (Text) {
-
-    
     const li = document.createElement("li");
     li.innerHTML = `${Text} <button>Видалити</button>`;
     List.appendChild(li);
