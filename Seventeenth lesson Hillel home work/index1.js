@@ -20,9 +20,9 @@ class SimpleCalculator {
   }
   
   const calculate = new SimpleCalculator();
-  console.log(calculate.addNumber(5, 3));     
-  console.log(calculate.subtractNumber(10, 4)); 
-  console.log(calculate.multiplyNumber(3, 6)); 
-  console.log(calculate.divideNumber(8, 2));   
+  console.log(calculate.addNumber(10, 20));     
+  console.log(calculate.subtractNumber(10, 5)); 
+  console.log(calculate.multiplyNumber(8, 4)); 
+  console.log(calculate.divideNumber(14, 2));   
   
   
